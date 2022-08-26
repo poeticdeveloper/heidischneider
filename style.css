@@ -1,0 +1,83 @@
+html{}
+body{
+	align-content: center;
+	text-align: center !important;
+	margin:  0 auto;
+	font-family: 'Cinzel', serif;
+font-family: 'Poppins', sans-serif;
+	/*background-color: #efeff0 !important;*/
+}
+section{
+	margin:  0 auto;
+	text-align: center !important;
+	width: 80%;
+	margin-top: 50px;
+	/*background-color: #efeff0;*/
+
+}
+
+.divSec{
+background: rgb(239,239,240);
+background: linear-gradient(180deg, rgba(239,239,240,1) 0%, rgba(255,255,255,1) 82%);
+height: 100%;
+color: #666;
+padding: 20px;
+}
+.divSec h1{
+	color:  #666;
+}
+.divSec p{
+	text-align: justify;
+	text-indent: 3%;
+}
+nav{
+
+font-family: 'Poppins', sans-serif;
+font-size: 14px !important;
+text-transform: uppercase !important;
+color: #000;
+font-weight: bolder;
+text-align: right !important;
+}
+
+#carouselExampleCaptions{
+	width: 100%;
+
+}
+
+footer{
+	margin-top: 300px;
+	color: grey;
+}
+
+h1{
+	color: white;
+}
+
+
+.navbar {
+	/*background-color: #efeff0 !important;*/
+}
+h1{
+	font-family: 'Cinzel', serif;
+font-family: 'Poppins', sans-serif;
+}
+img{
+	border: none !important;
+}
+
+/*contact section*/
+
+input{
+	border-radius: 5px;
+	border: 1px solid grey;
+	width: 200px;
+}
+label{
+	margin: 20px;
+}
+textarea{
+	border-radius: 5px;
+	width: 200px;
+	height: 100px;
+}
